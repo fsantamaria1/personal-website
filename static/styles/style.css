@@ -1,5 +1,9 @@
 body {
-    background-color: #F8F8F8;
+    background-color: #E6E6FA;
+}
+
+.card-body {
+    background-color: #D9D9FF;
 }
 
 .card-body img {
