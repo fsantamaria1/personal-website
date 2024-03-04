@@ -7,10 +7,10 @@ body {
     list-style-type: none;
 }
 
-.social-links ul, li{
-	list-style-type:none;
-	display: inline-block;
-}
+.social-links > li {
+    display: inline-block;
+    list-style-type:none;
+} 
 
 .social-links img{
 	width:20px;
